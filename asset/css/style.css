@@ -1,7 +1,7 @@
 *{
   padding: 0;
   margin: 0;
-  box-sizing: border-box; /* Thuộc tính dùng để điều chỉnh kích thước ban đầu sao cho khi badding và margin không bị ảnh hưởng và nó tự động cộng vào.*/
+  box-sizing: border-box; 
 }
 html{
   font-family: Arial, Helvetica, sans-serif;
